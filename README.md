@@ -51,4 +51,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### DEMO
-![alt text] (C:\Users\LENOVO\Downloads\SinghDhaba\first.png)
+<img
+src=“C:\Users\LENOVO\Downloads\SinghDhaba\first.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
