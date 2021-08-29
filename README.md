@@ -29,6 +29,18 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `json-server`
+
+json-server is a node module, and hence can be installed globally by typing the following at the command prompt:
+`npm install json-server -g`
+
+At any convenient location on your computer, create a new folder named json-server, and move to this folder.
+
+Download the db.json file provided above to this folder.
+
+Move to this folder in your terminal window, and type the following at the command prompt to start the server:
+`  json-server --watch db.json -p 3001 -d 2000`
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
