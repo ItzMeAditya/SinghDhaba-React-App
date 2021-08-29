@@ -52,4 +52,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### DEMO
 
-![alt text here](first.png)
+![ Home ](https://github.com/ItzMeAditya/SinghDhaba-React-App/blob/master/Demo/first.png)
+
+![](https://github.com/ItzMeAditya/SinghDhaba-React-App/blob/master/Demo/second.png)
+
+![](https://github.com/ItzMeAditya/SinghDhaba-React-App/blob/master/Demo/third.png)
+
+![](https://github.com/ItzMeAditya/SinghDhaba-React-App/blob/master/Demo/fourth.png)
+
+![](https://github.com/ItzMeAditya/SinghDhaba-React-App/blob/master/Demo/fifth.png)
+
+![](https://github.com/ItzMeAditya/SinghDhaba-React-App/blob/master/Demo/sixth.png)
